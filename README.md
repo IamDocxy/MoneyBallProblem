@@ -1,1 +1,1 @@
-# Performed a thorough statistical analysis of the data of baseball players from seanlahman.com using multiple libraries of R to derive actionable insights and find players for The Oakland Athletics, to replace the ones lost at the start of the 2001–02 off-season.
+# Performed a thorough statistical analysis of the data of baseball players from seanlahman.com to derive actionable insights and find players for The Oakland Athletics, to replace the ones lost at the start of the 2001–02 off-season.
